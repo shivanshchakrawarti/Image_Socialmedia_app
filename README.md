@@ -26,7 +26,7 @@ This AI-Powered Image Chat Application is a full-stack web application that allo
 
 - **Websockets**: Websockets are used to enable real-time communication between users. This ensures that messages and images are instantly delivered and displayed to all participants in the conversation.
 
-- **AI Image Generation**: The application integrates with an AI image generation model to create images based on the conversation context. This could involve using an AI model trained on various image datasets to generate images that correspond to the text-based conversation.
+- **AI Image Generation**: The application integrates with an AI image generation model to create images based on the conversation context. This involves using an AI model trained on various image datasets to generate images that correspond to the text-based conversation.
 
 ## Getting Started
 
