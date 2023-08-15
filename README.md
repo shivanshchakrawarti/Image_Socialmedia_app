@@ -16,7 +16,7 @@ This AI-Powered Image Chat Application is a full-stack web application that allo
 
 - **Responsive Design**: The application is designed to be responsive and compatible with various devices, including desktops, tablets, and smartphones.
 
-## Technology Stack
+## Technological Stack
 
 - **Frontend**: The frontend of the application is built using modern web technologies, including HTML5, CSS3, and JavaScript. The user interface is designed to be intuitive and user-friendly, providing a seamless chat experience.
 
